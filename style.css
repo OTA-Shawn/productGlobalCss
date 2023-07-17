@@ -1,0 +1,17 @@
+/*================ Specification Styling ================*/
+.section-specs{margin-left:auto;margin-right:auto;max-width:980px}
+.specs-headline{margin-bottom:47px}
+.typography-headline-specs{font-size:62px !important;font-weight:600;letter-spacing:-0.015em}
+.section-specs .specs-section{border-top:1px solid #d2d2d7}
+.section-specs .specs-section:first-child{border-top:none}
+.table-tap:last-child{border-bottom:1px solid #d2d2d7}
+.specs-section{padding-top:2.5em;padding-bottom:2.2em}
+.specs-row:before, .specs-row:after{content:" ";display:block}
+.specs-rowheader:after, .specs-row:after{clear:both}
+.specs-column, .specs-rowheader{float:left}
+.specs-rowheader{width:22%}
+.specs-rowheader{font-size:24px;line-height:1.4;font-weight:600;letter-spacing:.009em;margin-top:-0.25em}
+.specs-column{width:30%;margin-left:3%}
+.specs-column{font-size:21px !important;line-height:1.4;font-weight:400;letter-spacing:.009em;margin-top:-0.25em}
+@media only screen and (max-width:1024px){.section-specs{max-width:700px}.typography-headline-specs-reduced{font-size:48px!important}.specs-rowheader{font-size:21px;line-height:1.2}.specs-column{font-size:17px!important}}
+@media only screen and (max-width:734px){.section-specs{margin-left:auto;margin-right:auto;max-width:375px;padding-left:10px;padding-right:10px}.specs-headline{margin-bottom:30px}.typography-headline-specs-reduced{font-size:40px!important}.specs-section{padding-top:1em;padding-bottom:1.5em}.specs-rowheader{width:100%;font-size:19px;padding:0.95em 0}.specs-column{width:45%;margin-left:0;margin-right:11px}}
