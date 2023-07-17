@@ -21,6 +21,7 @@
 .z-index-10 {z-index: 10}
 
 /* ------- Grid Styling ------- */
+/* 
 .grid {
 	display: grid;
 	grid-template-columns: repeat(12,minmax(0,1fr));
@@ -28,7 +29,8 @@
 	grid-column-gap: 24px;
 	margin-left: auto;
 	margin-right: auto;
-}
+} 
+*/
 .large-grid-span-12 {grid-column: span 12}
 .large-grid-span-10 {grid-column: span 10}
 .large-grid-span-8 {grid-column: span 8}
@@ -1020,7 +1022,8 @@
 .theme-dark{background-color: #000;color: #a1a1a6}
 .list-nobullet {list-style-type: none!important;padding-left: 0!important; margin-left: 0}
 .fluid-width-video-wrapper{padding-top:56.25%!important}
+/* 
 .video-container{position:relative;}
 .video-container iframe{position:absolute;top:0;left:0;width:100%;height:100%}
-
+ */
 .section-wrapper{display:flex;justify-content:space-between}
