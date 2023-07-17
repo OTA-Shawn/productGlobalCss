@@ -1020,6 +1020,7 @@
 .theme-dark{background-color: #000;color: #a1a1a6}
 .list-nobullet {list-style-type: none!important;padding-left: 0!important; margin-left: 0}
 .fluid-width-video-wrapper{padding-top:56.25%!important}
+.video-container{position:relative;}
 .video-container iframe{position:absolute;top:0;left:0;width:100%;height:100%}
 
 .section-wrapper{display:flex;justify-content:space-between}
