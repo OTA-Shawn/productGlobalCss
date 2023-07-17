@@ -21,14 +21,14 @@
 .z-index-10 {z-index: 10}
 
 /* ------- Grid Styling ------- */
-.grid {
+/* .grid {
 	display: grid;
 	grid-template-columns: repeat(12,minmax(0,1fr));
 	grid-row-gap: 24px;
 	grid-column-gap: 24px;
 	margin-left: auto;
 	margin-right: auto;
-}
+} */
 .large-grid-span-12 {grid-column: span 12}
 .large-grid-span-10 {grid-column: span 10}
 .large-grid-span-8 {grid-column: span 8}
