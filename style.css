@@ -1000,7 +1000,7 @@
 @media only screen and (max-width:734px){.intensity-wrapper{width:74px}.intensity-content{top:12px;right:15px}.intensity-headline{font-size:8px!important;margin-bottom:1px!important}.intensity-bar{height:32px;border:3px solid #1a1a1a}.typography-intensity{font-size:14px!important}}
 
 /*================ Specification Styling ================*/
-.section-specs{max-width:980px}
+.section-specs{margin:auto; max-width:980px}
 .specs-headline{margin-bottom:47px}
 .typography-headline-specs{font-size:62px !important;font-weight:600;letter-spacing:-0.015em}
 .section-specs .specs-section{border-top:1px solid #d2d2d7}
