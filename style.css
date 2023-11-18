@@ -907,22 +907,6 @@
 .header-full-width .header-container>.container { display: flex !important; justify-content: space-between !important; }
 .top-navigation .static-dropdown .menu-wrapper ul li:hover > a { background-color: #f4f4f4 !important; color: #777 !important; }
 
-/*================ Category Button ================*/
-.collection-list h3 { display: none; }
-.collection-list .row .col-md-2 { margin-bottom: 0px !important; }
-@media only screen and (max-width: 1024px){ 
-.sidebar-section-main { display: none; }
-}
-@media (min-width: 320px) and (max-width: 767px){
-.collection-list .row { display: flex !important; }
-.collection-list .row .col-md-2 { width: 50%; }
-.collection-list img { margin-left: 0!important; }
-}
-
-/*================ Category Product List ================*/
-.collection-container .category-products { margin: 0 !important; }
-.products-collection .products-grid .product { padding: 0 !important; }
-
 /*================ Main Footer Styling ================*/
 .__affirm-logo.__ligature__affirm_full_logo__ { font-size: 20px !important; }
 .footer-bottom .custom-block-1 { margin-left: 0 !important; }
